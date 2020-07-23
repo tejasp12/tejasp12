@@ -1,4 +1,4 @@
-![Hi there 👋](https://drive.google.com/file/d/19_FQtmfWATgLoT-kWZ2Iqb_eFwryODCh/view?usp=sharing)
+![Hi there 👋](https://res.cloudinary.com/dvkfpdzi5/image/upload/v1595515700/Test/Github-Banner_wtpq0k.jpg)
 
 Welcome to my GitHub page.
 
