@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**tejasp12/tejasp12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page.
 
-Here are some ideas to get you started:
+A place where you can find all basics behind:
+1. Regression Analysis:
+  1.1.Linear
+  1.2 Polynomial
+  1.3 Logistic
+  1.4 Decision Tree and Random Forrest
+  1.5 Neural Network
+  
+2. Classification Tasks
+2. Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on these platforms
