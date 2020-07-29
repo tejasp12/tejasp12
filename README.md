@@ -8,9 +8,13 @@ A place where you can find all the basics behind:
 
      1.1.Linear
      
-     1.2 Polynomial
+         1.1.1 Simple Linear
+         
+         1.1.2 Multiple Linear
      
-     1.3 Logistic
+     1.2 Logistic
+     
+     1.3 Polynomial
      
      1.4 Decision Tree and Random Forrest
      
