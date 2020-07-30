@@ -8,17 +8,17 @@ A place where you can find all the basics behind:
 
      1.1.Linear
      
-         1.1.1 Simple Linear
+         1.1.1 [Simple Linear Regression](https://github.com/tejasp12/Simple_Regression_Analysis_)
          
-         1.1.2 Multiple Linear
+         1.1.2 Multiple Linear Regression
      
-     1.2 Logistic
+     1.2 Logistic Regression
      
-     1.3 Polynomial
+     1.3 Polynomial Regression
      
-     1.4 Decision Tree and Random Forrest
+     1.4 Decision Tree and Random Forrest Regression
      
-     1.5 Neural Network
+     1.5 Neural Network Regression
   
 **2. Classification Tasks:**
 
