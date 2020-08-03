@@ -8,7 +8,7 @@ A place where you can find all the basics behind:
 
      1.1.Linear
      
-         1.1.1 ![Simple Linear Regression](https://github.com/tejasp12/Simple_Regression_Analysis_/blob/master/README.md)
+         1.1.1 Simple Linear Regression
          
          1.1.2 Multiple Linear Regression
      
